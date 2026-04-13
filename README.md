@@ -20,7 +20,7 @@ Download the project, using the green Code button.
 
 Extract the zip file after it finishes downloading.
 
-Open it in Clion, or your preferred IDE. And run the project.
+Open the folder in Clion, or your preferred IDE. And run the project.
 
 
 __How to contribute:__
