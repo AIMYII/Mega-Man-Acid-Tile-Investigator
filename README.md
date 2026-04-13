@@ -7,12 +7,12 @@ It also finds the colors using an in-game picture of your choice and it gets the
 This software is intended to be used in the Mega man games. But it can be used elsewhere
 
 
-**Instructions:
-**
+__Instructions:__
 
 Dependencies: Qt 6.5.3 or later
 
-How to build:
+
+__How to build:__
 
 Download the project, using the green Code button.
 
@@ -20,6 +20,7 @@ Extract the zip file after it finishes downloading.
 
 Open it in Clion, or your preferred IDE. And run the project.
 
-How to contribute:
+
+__How to contribute:__
 
 Open issues for suggestions or bugs.
