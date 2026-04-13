@@ -10,7 +10,7 @@ This software is intended to be used in the Mega man games. But it can be used e
 __Instructions:__
 
 Dependencies: Qt 6.5.3 or later
-Follow this guide to get qt: [url=here]https://doc.qt.io/qt-6/qt-online-installation.html[/url]
+Follow this guide to get qt: [Here](https://doc.qt.io/qt-6/qt-online-installation.html)
 
 
 __How to build:__
