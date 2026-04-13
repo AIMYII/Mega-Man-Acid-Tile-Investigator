@@ -11,4 +11,5 @@ Extract the zip file after it finishes downloading.
 Open it in Clion, or your preferred IDE. And run the project.
 
 How to contribute:
-WIP
+
+Open issues for suggestions or bugs.
