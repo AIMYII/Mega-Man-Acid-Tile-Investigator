@@ -7,11 +7,11 @@ It also finds the colors using an in-game picture of your choice and it gets the
 This software is intended to be used in the Mega man games. But it can be used elsewhere
 
 
+Python version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-Python)
+
 __Instructions:__
 
 Dependencies: Qt 6.5.3 or later.
-
-Follow this guide to get qt: [Here](https://doc.qt.io/qt-6/qt-online-installation.html)
 
 
 __How to build:__
