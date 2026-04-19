@@ -1,5 +1,7 @@
 # Mega Man Acid Tile Investigator
 
+__This version is currently in "Low-Maintenance" mode. It is intended to be a high-performance port of the Python logic, and will not be maintained by the owner. Contributions are welcome!__
+
 Acid Tile Investigator is a C++ and Qt software that automatically goes through the hex addresses and converts them into decimals.
 
 It also finds the colors using an in-game picture of your choice and it gets the color and hex addresses from the picture and matches the addresses and colors for each image.
