@@ -8,7 +8,7 @@ The project has moved to these coding languages:
 
 Python version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-Python)
 
-C# version of the project: [Github respository](https://github.com/AIMYII/https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp/tree/master)
+C# version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp)
 
 -----
 __This version is currently in "Low-Maintenance" mode. It is intended to be a high-performance port of the Python logic, and will not be maintained by the owner. Contributions are welcome!__
