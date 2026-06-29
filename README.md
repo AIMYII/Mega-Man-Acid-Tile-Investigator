@@ -1,17 +1,10 @@
 # Mega Man Acid Tile Investigator
 
-28/04/2026
-
-__Mega man Acid Tile Investigator will not be maintained by the owner. Contributions and forks are welcome to continue this project. It will be left as a public archive. Thank you for all your support!__
-
-The project has moved to these coding languages:
-
 Python version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-Python)
 
 C# version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp)
 
 -----
-__This version is currently in "Low-Maintenance" mode. It is intended to be a high-performance port of the Python logic, and will not be maintained by the owner. Contributions are welcome!__
 
 Acid Tile Investigator is a C++ and Qt software that automatically goes through the hex addresses and converts them into decimals.
 
