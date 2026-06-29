@@ -6,7 +6,7 @@ C# version of the project: [Github respository](https://github.com/AIMYII/Mega-M
 
 -----
 
-Acid Tile Investigator is a C++ and Qt software that automatically goes through the hex addresses and converts them into decimals.
+Acid Tile Investigator is a C++ software that automatically goes through the hex addresses and converts them into decimals.
 
 It also finds the colors using an in-game picture of your choice and it gets the color and hex addresses from the picture and matches the addresses and colors for each image.
 
