@@ -1,8 +1,8 @@
 # Mega Man Acid Tile Investigator
 
-Python version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-Python)
+Python version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-Python) - public archive
 
-C# version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp)
+C# version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp) - public archive
 
 -----
 
